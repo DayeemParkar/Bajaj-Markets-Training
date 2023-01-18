@@ -1,0 +1,12 @@
+p {
+    color:blue;
+    border: 1px dotted brown;
+}
+
+body {
+    background:url(https://www.w3schools.com/html/img_girl.jpg) fixed center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
