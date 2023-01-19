@@ -29,3 +29,8 @@ f.close()
 
 os.remove('test.txt')
 os.rename('temp.txt', 'test.txt')
+
+'''
+os.chdir(os.getcwd() + '/__pycache__')
+print(os.getcwd())
+'''
