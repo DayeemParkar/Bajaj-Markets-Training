@@ -1,1 +1,8 @@
-
+INFO:__name__:1674208883.057157
+INFO:__name__:This is info
+ERROR:__name__:This is exception
+NoneType: None
+INFO:__name__:1674208927.616192
+INFO:__name__:This is info
+ERROR:__name__:This is exception
+NoneType: None
